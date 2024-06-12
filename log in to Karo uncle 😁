@@ -1,0 +1,35 @@
+<HTML>
+<font size="6",font color="">
+<h1><b><u><center>"HOME AWAY FROM HOME"</b></u></center></h1>
+<h5><b><i><center>(Navigating Hostel Messes and City Life...)</h5></b></i></center>
+
+<body bgcolor="#ccffff">
+<html>
+<center><h2><font size="8">Sign-up</h2></center>
+
+<form action="/action_page.php" method="post">
+  <div class="imgcontainer">
+<center><img src="https://png.pngtree.com/png-clipart/20220226/ourmid/pngtree-cartoon-boy-s-formal-blue-background-certificate-photo-png-image_4438531.png"width="250" height="250" alt="user" class="user"></center>
+  </div>
+
+  <div class="container">
+   <center> <label for="uname"><b><font size="6">Username</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" required></center><br>
+
+   <center> <label for="psw"><b><font size="6">Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required></center><br>
+        
+
+
+
+    <label>
+      <input type="checkbox" checked="checked" name="remember"> Remember me
+    </label>
+  </div>
+
+ 
+</form>
+<center><button type="submit"><a href="file:///C:/Users/praga/OneDrive/Desktop/rcpatel/HOME.html">Sign In</a></button></center>
+
+</body>
+</html>
